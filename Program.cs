@@ -10,4 +10,5 @@
 
 
 
-Console.WriteLine("Hello, World!");
+string[] table = new string["Russian", "Denmark", "Kazan" ];
+Console.WriteLine(table);
